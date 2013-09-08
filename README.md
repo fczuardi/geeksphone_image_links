@@ -15,3 +15,10 @@ Keon
 1.0.1 (stable)
 --------------
 - [2013-07-12](http://downloads.geeksphone.com/keon/images-keon-2013-07-12.Gecko-6565d51.Gaia-054cdc2.zip)
+
+
+More
+----
+
+It is probably possible to figure out the download links if you look at
+[this page](http://www.geeksphone.com/manifests/index.php)
